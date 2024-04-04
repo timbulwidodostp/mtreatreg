@@ -5,6 +5,8 @@ Multinomial treatment effects model Use mtreatreg With STATA 18
 
 Multinomial treatment-effects regression Use mtreatreg With STATA 18
 
+https://www.youtube.com/watch?v=cYad16ATCe8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
